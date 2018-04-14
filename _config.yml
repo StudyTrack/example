@@ -1,10 +1,8 @@
 theme: jekyll-theme-minimal
 # Site
-title: NexT
-subtitle:
-description:
-author: John Doe
-# Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-lang: "ru-RU"
+title: StudyTrack
+subtitle: Зарубежные языковые школы
+description: информируем, отправляем
+author: Konstantin Likhtin
 language: "ru-RU"
 date_format: '%Y-%m-%d'
